@@ -162,18 +162,18 @@ body{
     }
     @media (max-width: 767px) {
         .landing .landing-content  {
-            width: 400px;
+            width: 300px;
         }
         .landing-content h2 {
             position: absolute;
             font-size: 20px;
-            left: 20%;
+            left: 5%;
             top: 20px;
         }
         .landing-content p {
             position: absolute;
             font-size: 15px;
-            left: 20%;
+            left: 5%;
             top: 150px;
         }
     }
